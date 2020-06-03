@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perspectives of Deep Learning from an Industrial Engineer
+title: Perspectives on Deep Learning from an Industrial Engineer
 cover-img: /assets/img/path.jpg
 tags: [Machine learning, Engineering]
 ---

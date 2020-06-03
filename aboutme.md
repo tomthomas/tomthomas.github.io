@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I have a background in Industrial Engineering. I've always loved Math. I feel at home working on problems. Data Science has been a field of interest of mine for a while. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm self-taught on several skills although I do believe sometimes great teachers can't be replaced, be it either in academics or life. My main focus at the moment is on understanding different Machine Learning models and their concepts, training them for various datasets, appling them to real world problems and expanding my knowledge in that area.
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to look around to see what I'm currently working on or what I've worked on in the past. 

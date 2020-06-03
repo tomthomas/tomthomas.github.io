@@ -39,8 +39,8 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "thomsonthomas.ie@gmail.com"
-  linkedin: tomthomasokstate
-  github: tomthomas-code
+  linkedin: thomthomas
+  github: tomthomas
   twitter: __tomthomas
   rss: true
 #  reddit: yourname

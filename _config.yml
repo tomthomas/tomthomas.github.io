@@ -14,8 +14,8 @@ author: Copyright
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Books: "books"
+    - Interesting Topics: "topics"
   Say Hi!: "mailto:thomsonthomas.ie@gmail.com"
 
 # --- Logo --- #

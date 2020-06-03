@@ -8,8 +8,8 @@ tags: [Machine learning, Engineering]
 Deep Learning is not a new concept and it's been around for decades. However, now we seem to be in another stage of hype surrounding it. Yet each time we seem to grow our expectations, there also seems to be a plateau that follows suit.
 
 
-<center>![Hype](https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg){: .mx-auto.d-block :}</center>
-<center>[Source - gartner](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)</center>
+![Hype](https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg){: .mx-auto.d-block :}
+[Source - gartner](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)
 
 Whether we will return to a plateau is yet to be seen but we could expect it. After [Geoff Hinton's](https://www.youtube.com/watch?v=l9RWTMNnvi4) work on backpropagation became widely circulated in 1986, we saw a surge of interest surrounding the topic leading to buzzwords that surround us today like "A.I. - Path to the future". Yet even after such interest back then, we saw that the industry failed to apply much of the techniques explained to effect and bring about actual value. 
 

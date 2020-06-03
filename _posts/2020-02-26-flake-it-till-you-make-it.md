@@ -1,15 +1,20 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Perspectives of Deep Learning from an Industrial Engineer
 cover-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [Machine learning, Engineering]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Deep Learning is not a new thing and it's been around for decades. However, now we seem to be in another stage of hype surrounding it. Yet each time we seem to grow our expectations, there also seems to be a plateau that follows suit.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+![Hype](https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg){: .mx-auto.d-block :}
+->[Source - gartner](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)<-
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Whether we will return to a plateau is yet to be seen but we could expect it. After [Geoff Hinton's](https://www.youtube.com/watch?v=l9RWTMNnvi4) work on backpropagation became widely circulated in 1986, we saw a surge of interest surrounding the topoc leading to buzzwords that surround us today like "A.I. - Path to the future". Yet even after such interest back then, we saw that the industry failed to apply much of the techniques explained to effect and bring about actual value. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+After all, business is business and if the results don't tie themselves to revenue, then it doesn't really matter that a machine recognized a cat instead of a dog. Personally, I think this is when Industrial Engineering techniques shone through. I like to call it the golden age of Industrial Engineering (aka 1970s-2000s). Because ultimately, the ideas behind both fields are quite similar in how they start out.
+
+They start out with Math. In Industrial Engineering, the main aim is to create revenue. This I think enabled it to stand out over Machine Learning as the go-to tool for Corporations back then. Industrial Engineering uses a lot of math to identify weak-chains in the system (bottlenecks as we like to call them), increase their possible output to improve overall output. In Neural networks, we see a similar technique of finding nodes that maybe hindering the network to produce the desired output of a recognition. So we change their properties.
+The difference is that while admittedly, there are a lot of differences to both fields besides a specific example laid out here, Industrial Enigneering techniques lead to quicker real-world results whereas Deep Learning was still trying to figure out how to walk.
+
+That isn't to say there isn't great potential in Deep Learning.With today's computers being able to process terabytes of information quickly, we are closer to an A.I. future as cliche as that sounds. Maybe the combination of these two fields could even bring out further new discoveries. Let's hope so.

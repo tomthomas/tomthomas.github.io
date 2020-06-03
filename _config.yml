@@ -16,6 +16,7 @@ navbar-links:
   Resources:
     - Books: "books"
     - Interesting Topics: "topics"
+    - Papers: 'papers"
   Say Hi!: "mailto:thomsonthomas.ie@gmail.com"
 
 # --- Logo --- #

@@ -19,3 +19,5 @@ They start out with Math. In Industrial Engineering, the main aim is to create r
 The difference is that while admittedly, there are a lot of differences between both fields besides a specific example laid out here, Industrial Enigneering techniques lead to quicker real-world results whereas Deep Learning was still trying to figure out how to walk back then.
 
 That isn't to say there isn't great potential in Deep Learning. With today's computers being able to process terabytes of information quickly, we are closer to an A.I. future as cliche as that sounds. Maybe the combination of these two fields could even bring out further new discoveries. Let's hope so.
+
+ {{ partial "comments.html" . }}

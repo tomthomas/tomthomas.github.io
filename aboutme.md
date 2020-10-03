@@ -13,3 +13,5 @@ Feel free to look around to see what I'm currently working on or what I've worke
 [Intro.pdf](http://tomthomas.github.io/pdf/Tomthomas2020T.pdf)
 
 <a href="tomthomas.github.io/pdf/Tomthomas2020T.pdf" target="_blank">PDF.</a>
+
+<embed src="https://tomthomas.github.io/pdf/Tomthomas2020T.pdf" type="application/pdf" />

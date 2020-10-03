@@ -9,3 +9,5 @@ I'm self-taught on several skills although I do believe that sometimes great tea
 
 
 Feel free to look around to see what I'm currently working on or what I've worked on in the past. 
+
+[Intro.pdf](http://tomthomas.github.io/tomthomas/pdf/Tomthomas2020T.pdf)
